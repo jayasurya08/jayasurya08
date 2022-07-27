@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @jayasurya08
 - 👀 I’m interested in web developement...
 - 🌱 I’m currently learning full stack developer course ...
+HTML CSS JAVASCRIPT ANGULARNODEJS MONGODB
+
 
 
 
